@@ -1,0 +1,9 @@
+{
+  "name": "Copy of KisaanSathi - AI Farming Assistant",
+  "description": "An AI-powered assistant for Indian farmers, offering crop recommendations, plant disease detection, market price forecasts, and personalized agricultural guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
